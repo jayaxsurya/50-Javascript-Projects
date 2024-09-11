@@ -9,4 +9,6 @@
 
 - <a href="https://hidden-search-jayaxsurya.netlify.app/" target="_blank">Hidden Search</a>
 
+- <a href="https://blurry-loading-jayaxsurya.netlify.app/" target="_blank">Blurry Loading</a>
+
 
