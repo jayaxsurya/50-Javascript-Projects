@@ -7,4 +7,6 @@
 
 - <a href="https://rotating-navigation-jayaxsurya.netlify.app/" target="_blank">Rotating Navigation</a>
 
+- <a href="https://hidden-search-jayaxsurya.netlify.app/" target="_blank">Hidden Search</a>
+
 
