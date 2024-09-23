@@ -13,4 +13,6 @@
 
 - <a href="https://scroll-animation-jayaxsurya.netlify.app/" target="_blank">Scroll Animation</a>
 
+- <a href="https://split-landing-page-jayaxsurya.netlify.app/" target="_blank">Split Landing Page</a>
+
 
