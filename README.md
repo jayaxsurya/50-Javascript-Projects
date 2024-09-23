@@ -11,4 +11,6 @@
 
 - <a href="https://blurry-loading-jayaxsurya.netlify.app/" target="_blank">Blurry Loading</a>
 
+- <a href="https://scroll-animation-jayaxsurya.netlify.app/" target="_blank">Scroll Animation</a>
+
 
